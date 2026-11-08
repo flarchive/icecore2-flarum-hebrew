@@ -2,26 +2,15 @@
 
 > **Read-only archive of released versions of flabrew/flabrew.** Not for installation: use [Packagist](https://packagist.org/packages/flabrew/flabrew) or the [upstream repository](https://github.com/icecore2/Flarum-hebrew).
 
-**22** versions archived · Latest: [`3.0.3`](https://github.com/flarchive/flabrew-flabrew/tree/archive/v3.0.3) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`3.0.4`](https://github.com/flarchive/icecore2-flarum-hebrew/tree/archive/v3.0.4) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.1` | 2021-10-26 | `^1.1` | [Browse](https://github.com/flarchive/flabrew-flabrew/tree/archive/v1.1) |
-| `1.2.0` | 2022-08-29 | `^1.1` | [Browse](https://github.com/flarchive/flabrew-flabrew/tree/archive/v1.2.0) |
-| `2.0.0` | 2022-08-29 | `^1.3` | [Browse](https://github.com/flarchive/flabrew-flabrew/tree/archive/v2.0.0) |
-| `2.0.1` | 2022-08-29 | `^1.3` | [Browse](https://github.com/flarchive/flabrew-flabrew/tree/archive/v2.0.1) |
-| `2.1.0` | 2022-09-02 | `^1.3` | [Browse](https://github.com/flarchive/flabrew-flabrew/tree/archive/v2.1.0) |
-| `2.2.0` | 2022-09-02 | `^1.3` | [Browse](https://github.com/flarchive/flabrew-flabrew/tree/archive/v2.2.0) |
-| `2.3.0` | 2022-09-02 | `^1.3` | [Browse](https://github.com/flarchive/flabrew-flabrew/tree/archive/v2.3.0) |
-| `2.3.1` | 2022-09-02 | `^1.3` | [Browse](https://github.com/flarchive/flabrew-flabrew/tree/archive/v2.3.1) |
-| `2.4.0` | 2022-09-03 | `^1.3` | [Browse](https://github.com/flarchive/flabrew-flabrew/tree/archive/v2.4.0) |
-| `2.5.0` | 2022-09-03 | `^1.3` | [Browse](https://github.com/flarchive/flabrew-flabrew/tree/archive/v2.5.0) |
+| — | — | — | — |
 
-[View all 22 versions](https://github.com/flarchive/flabrew-flabrew/tags)
-
-Catalog entry: [packages/flabrew-flabrew.json](https://github.com/flarchive/archive-index/blob/main/packages/flabrew-flabrew.json)
+Catalog entry: [packages/icecore2-flarum-hebrew.json](https://github.com/flarchive/archive-index/blob/main/packages/icecore2-flarum-hebrew.json)
 
 ## About this archive
 
